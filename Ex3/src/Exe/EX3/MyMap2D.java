@@ -1,12 +1,12 @@
 //by:Matan ziv
-//id:208235796
 
 package Exe.EX3;
 import java.util.Iterator;
 import java.util.LinkedList;
 /**
  * This class implements the Map2D interface.
- * You should change (implement) this class as part of Ex3. */
+  */
+
 public class MyMap2D implements Map2D{
 	private int[][] _map;
 
