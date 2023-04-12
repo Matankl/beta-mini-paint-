@@ -3,7 +3,6 @@ package Exe.EX3;
 /**
  * Introduction to Computer Science, Ariel University, Ex3:
  * This class represents a 2D point in the plane.
- * Do NOT change this class! It would be used as is for testing.
  * @author boaz.benmoshe
  */
 
