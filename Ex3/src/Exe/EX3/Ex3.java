@@ -1,5 +1,4 @@
 //by:Matan ziv
-//id:208235796
 
 package Exe.EX3;
 
@@ -10,8 +9,7 @@ import java.awt.Color;
  * StdDraw_Ex3 with the Map2D interface.
  * Written for 101 java course it uses simple static functions to allow a 
  * "Singleton-like" implementation.
- * You should change this class!
- *
+
  */
 public class Ex3 {
 	private static  Map2D _map = null;
