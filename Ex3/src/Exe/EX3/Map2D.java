@@ -3,10 +3,7 @@ package Exe.EX3;
 import java.awt.Color;
 
 /**
- * Introduction to Computer Science, Ariel University, Ex3
  * This interface represents a 2D map as a raster matrix or maze.
- * @author boaz.ben-moshe.
- * Do NOT change this interface!!
  */
 public interface Map2D {
 	public static final int WHITE = Color.WHITE.getRGB();
