@@ -1,6 +1,4 @@
 # beta-mini-paint-
-this is the beta vertion of my mini paint
-
 the features it has is drawing a map in different scales,
 draw geometric shapes like circle, rectangle and segment with 6 colores.
 
